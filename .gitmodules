@@ -12,7 +12,7 @@
 	url = ../../schwabe/openvpn3.git
 [submodule "main/src/main/cpp/asio"]
 	path = main/src/main/cpp/asio
-	url = ../../chriskohlhoff/asio/
+	url = https://github.com/chriskohlhoff/asio
 [submodule "main/src/main/cpp/lz4"]
 	path = main/src/main/cpp/lz4
 	url = ../../lz4/lz4.git
